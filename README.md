@@ -1,2 +1,2 @@
 # EventList
-My C# simple event-driven list (.NET 4.0)
+My simple C# event-driven list (.NET 4.0)
